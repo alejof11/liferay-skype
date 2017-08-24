@@ -221,3 +221,7 @@ li.first-pagination-control a, li.pagination-control a, li.last-pagination-contr
     width: 100%;
     text-align: center;
 }
+
+.pagination li {
+	 margin-right: 10px;
+}
